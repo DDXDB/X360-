@@ -1,6 +1,7 @@
 # Xbox360纪念馆
 收集Xbox360上的游戏
-[<img src="https://img.alicdn.com/imgextra/i3/O1CN01qcJZEf1VXF0KBzyNb_!!6000000002662-2-tps-384-92.png"](https://www.aliyundrive.com/s/uLzfEw5AcaC)
+
+[<img src="https://img.alicdn.com/imgextra/i3/O1CN01qcJZEf1VXF0KBzyNb_!!6000000002662-2-tps-384-92.png">](https://www.aliyundrive.com/s/uLzfEw5AcaC)
 | 封面 | 游戏名称 | Xbox系统名称 | 微软商店链接 | 价格 | 中文支持 | 
 | -----| ----- | ----- | ----- | ----- | ----- | 
 | <img src="https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541092a/1033/boxartlg.jpg" width="130">   | 暗影诅咒 | Shadows of the Damned | [美国](https://marketplace.xbox.com/en-us/Product/Shadows-of-the-Damned/66acd000-77fe-1000-9115-d8024541092a) | 停止销售 | 无 | 
